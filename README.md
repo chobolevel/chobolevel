@@ -2,7 +2,7 @@
     <h3>Hi 👋, I'm chobolevel</h3>
     <p>🌟 Welcome to my coding universe! 🌟</p>
     <h4 align="center">My Projects!!!</h4>
-    <table align="center" style="margin: 100px 0">
+    <table align="center" style="margin: 100px;">
       <tr>
         <td><a href="https://www.chobolevel.site/">cholo</a> - chobolevel's enineering blog(deployed)</td>
       </tr>
@@ -10,7 +10,7 @@
         <td><a href="https://chobolevel.github.io/react-for-beginners/">InJae</a> - chobolevel's movie gallery(deployed)</td>
       </tr>
       <tr>
-          <td><a href="https://chobolevel.github.io/react-for-beginners/">Ikea-clone-project</a> - chobolevel's ikea clone project(not deployed)</td>
+          <td><a href="https://github.com/chobolevel/ikea">Ikea-clone-project</a> - chobolevel's ikea clone project(not deployed)</td>
       </tr>
     </table>
     <div style="margin: 30px;">
