@@ -7,7 +7,7 @@
         <td><a href="https://www.chobolevel.site/">cholo</a> - chobolevel's enineering blog(deployed)</td>
       </tr>
       <tr>
-        <td><a href="https://chobolevel.github.io/react-for-beginners/">InJae</a> - chobolevel's movie gallery(deployed)</td>
+        <td><a href="https://github.com/chobolevel/react-for-beginners">InJae</a> - chobolevel's movie gallery(not deployed)</td>
       </tr>
       <tr>
           <td><a href="https://github.com/chobolevel/ikea">Ikea-clone-project</a> - chobolevel's ikea clone project(not deployed)</td>
