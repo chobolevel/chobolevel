@@ -4,7 +4,7 @@
     <h4 align="center">My Projects!!!</h4>
     <table align="center" style="margin: 100px;">
       <tr>
-        <td><a href="https://www.chobolevel.site/">cholo</a> - chobolevel's enineering blog(deployed)</td>
+        <td><a href="https://github.com/chobolevel/log">cholo</a> - chobolevel's enineering blog(deployed)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/chobolevel/react-for-beginners">InJae</a> - chobolevel's movie gallery(not deployed)</td>
