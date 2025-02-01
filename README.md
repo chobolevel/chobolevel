@@ -1,16 +1,15 @@
 <div align="center" style="padding: 20px;">
-    <h3>Hi 👋, I'm chobolevel</h3>
-    <p>🌟 Welcome to my coding universe! 🌟</p>
-    <h4 align="center">My Projects!!!</h4>
+    <h3>안녕하세요! 👋, 개발자 강인재입니다.</h3>
+    <h4 align="center">저의 프로젝트를 소개합니다!!!</h4>
     <table align="center" style="margin: 100px;">
       <tr>
-        <td><a href="https://github.com/chobolevel/log">cholo</a> - chobolevel's enineering blog(deployed)</td>
+        <td><a href="https://github.com/chobolevel/log">cholo</a> - 개인 개발 블로그 프로젝트(풀스택)</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/chobolevel/react-for-beginners">InJae</a> - chobolevel's movie gallery(not deployed)</td>
+        <td><a href="https://github.com/chobolevel/react-for-beginners">InJae</a> - 영화 갤러리 프로젝트(프론트)</td>
       </tr>
       <tr>
-          <td><a href="https://github.com/chobolevel/ikea">Ikea-clone-project</a> - chobolevel's ikea clone project(not deployed)</td>
+          <td><a href="https://github.com/chobolevel/ikea">Ikea-clone-project</a> - 이케아 클론 프로젝트(풀스택)</td>
       </tr>
     </table>
     <div style="margin: 30px;">
