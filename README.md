@@ -78,7 +78,7 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 
 ## ✍️ Recent Posts
 
-기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@your-id)에 기록하고 있습니다.
+기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
 <!-- velog-posts-end -->
