@@ -81,7 +81,9 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
-_아직 게시된 포스트가 없습니다._
+- [DB Task Queue 적용기](https://velog.io/@rodaka123/DB-Task-Queue-%EC%A0%81%EC%9A%A9%EA%B8%B0)  `2026.06.30`
+- [Java의 일반 스레드와 데몬 스레드](https://velog.io/@rodaka123/Java%EC%9D%98-%EC%9D%BC%EB%B0%98-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8D%B0%EB%AA%AC-%EC%8A%A4%EB%A0%88%EB%93%9C)  `2026.06.28`
+- [JVM 레벨 동기화(Synchronized, ReentrantLock)](https://velog.io/@rodaka123/JVM-%EB%A0%88%EB%B2%A8-%EB%8F%99%EA%B8%B0%ED%99%94Synchronized-ReentrantLock)  `2026.06.26`
 <!-- velog-posts-end -->
 
 </div>
