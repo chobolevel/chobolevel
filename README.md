@@ -4,9 +4,9 @@
 
 ### 데이터 처리 구조와 성능 문제를 분석하고 개선하는 백엔드 개발자
 
-Spring 기반 서버 개발자로 쿼리 튜닝과 인증 시스템 설계를 깊이 파봅니다
+Spring 기반 서버 개발 3년차 · 쿼리 튜닝과 인증 시스템 설계를 깊이 파봅니다
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@your-id)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@rodaka123)
 [![Email](https://img.shields.io/badge/Email-rodaka123@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rodaka123@naver.com)
 
 </div>
@@ -81,6 +81,7 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
+_아직 게시된 포스트가 없습니다._
 <!-- velog-posts-end -->
 
 </div>
