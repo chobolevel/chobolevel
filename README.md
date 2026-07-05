@@ -70,6 +70,7 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
+- [CountDownLatch](https://velog.io/@rodaka123/CountDownLatch)  `2026.07.04`
 - [낙관적 락과 비관적 락](https://velog.io/@rodaka123/%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD%EA%B3%BC-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD)  `2026.07.02`
 - [DB Task Queue 적용기](https://velog.io/@rodaka123/DB-Task-Queue-%EC%A0%81%EC%9A%A9%EA%B8%B0)  `2026.06.30`
 - [Java의 일반 스레드와 데몬 스레드](https://velog.io/@rodaka123/Java%EC%9D%98-%EC%9D%BC%EB%B0%98-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8D%B0%EB%AA%AC-%EC%8A%A4%EB%A0%88%EB%93%9C)  `2026.06.28`
