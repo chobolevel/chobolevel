@@ -70,11 +70,11 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
+- [K8s(Kubernetes) 학습기 #1](https://velog.io/@rodaka123/K8s-%ED%95%99%EC%8A%B5%EA%B8%B0-1)  `2026.07.10`
 - [TOCTOU(Time-Of-Check to Time-Of-Use)](https://velog.io/@rodaka123/TOCTOUTime-Of-Check-to-Time-Of-Use)  `2026.07.09`
 - [헥사고날 아키텍처](https://velog.io/@rodaka123/%ED%97%A5%EC%82%AC%EA%B3%A0%EB%82%A0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)  `2026.07.06`
 - [CountDownLatch](https://velog.io/@rodaka123/CountDownLatch)  `2026.07.04`
 - [낙관적 락과 비관적 락](https://velog.io/@rodaka123/%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD%EA%B3%BC-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD)  `2026.07.02`
-- [DB Task Queue 적용기](https://velog.io/@rodaka123/DB-Task-Queue-%EC%A0%81%EC%9A%A9%EA%B8%B0)  `2026.06.30`
 <!-- velog-posts-end -->
 
 </div>
