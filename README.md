@@ -70,11 +70,11 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
+- [Spring Boot Admin(SBA)](https://velog.io/@rodaka123/Spring-Boot-AdminSBA)  `2026.07.21`
 - [[대용량 트래픽 대응 #4] 부하 분산](https://velog.io/@rodaka123/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%8C%80%EC%9D%91-4-%EB%B6%80%ED%95%98-%EB%B6%84%EC%82%B0)  `2026.07.18`
 - [Kotlin 테스트를 위한 Kotest & Mockk](https://velog.io/@rodaka123/Kotlin-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Kotest-Mockk)  `2026.07.16`
 - [[대용량 트래픽 대응 #3] Rate Limiting & Circuit Breaker](https://velog.io/@rodaka123/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%8C%80%EC%9D%91-3-Rate-Limiting-Circuit-Breaker)  `2026.07.16`
 - [[대용량 트래픽 대응 #2] DB 커넥션 풀 관리](https://velog.io/@rodaka123/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%8C%80%EC%9D%91-2-DB-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80-%EA%B4%80%EB%A6%AC)  `2026.07.15`
-- [[대용량 트래픽 대응 #1] 캐싱 전략](https://velog.io/@rodaka123/%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)  `2026.07.14`
 <!-- velog-posts-end -->
 
 </div>
