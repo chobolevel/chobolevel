@@ -70,11 +70,11 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
+- [DDD에서 Aggregate 루트 통한 자식 엔티티 캡슐화](https://velog.io/@rodaka123/DDD%EC%97%90%EC%84%9C-Aggregate-%EB%A3%A8%ED%8A%B8-%ED%86%B5%ED%95%9C-%EC%9E%90%EC%8B%9D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%BA%A1%EC%8A%90%ED%99%94)  `2026.09.06`
 - [Git Cherry-pick](https://velog.io/@rodaka123/Git-Cherry-pick)  `2026.08.11`
 - [SSE(Server-Sent Events)](https://velog.io/@rodaka123/SSEServer-Sent-Events)  `2026.07.23`
 - [Spring Boot Admin(SBA)](https://velog.io/@rodaka123/Spring-Boot-AdminSBA)  `2026.07.21`
 - [[대용량 트래픽 대응 #4] 부하 분산](https://velog.io/@rodaka123/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%8C%80%EC%9D%91-4-%EB%B6%80%ED%95%98-%EB%B6%84%EC%82%B0)  `2026.07.18`
-- [Kotlin 테스트를 위한 Kotest & Mockk](https://velog.io/@rodaka123/Kotlin-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Kotest-Mockk)  `2026.07.16`
 <!-- velog-posts-end -->
 
 </div>
