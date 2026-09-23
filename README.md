@@ -71,7 +71,7 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 
 <!-- velog-posts-start -->
 - [LATERAL JOIN은 언제 사용할까](https://velog.io/@rodaka123/LATERAL-JOIN%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C)  `2026.09.16`
-- [Write-Back에서 Outbox까지](https://velog.io/@rodaka123/Write-Back%EC%97%90%EC%84%9C-Outbox%EA%B9%8C%EC%A7%80-%EC%BA%90%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%A2%8B%EC%95%84%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%84%A4%EA%B3%84)  `2026.09.15`
+- [Write-Back에서 Outbox까지](https://velog.io/@rodaka123/Write-Back%EC%97%90%EC%84%9C-Outbox%EA%B9%8C%EC%A7%80)  `2026.09.15`
 - [DDD에서 Aggregate 루트 통한 자식 엔티티 캡슐화](https://velog.io/@rodaka123/DDD%EC%97%90%EC%84%9C-Aggregate-%EB%A3%A8%ED%8A%B8-%ED%86%B5%ED%95%9C-%EC%9E%90%EC%8B%9D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%BA%A1%EC%8A%90%ED%99%94)  `2026.09.06`
 - [Git Cherry-pick](https://velog.io/@rodaka123/Git-Cherry-pick)  `2026.08.11`
 - [SSE(Server-Sent Events)](https://velog.io/@rodaka123/SSEServer-Sent-Events)  `2026.07.23`
