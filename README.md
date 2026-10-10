@@ -70,7 +70,7 @@ Spring Boot 애플리케이션에 **의존성 하나로 끼워 넣을 수 있는
 기술 학습과 문제 해결 경험을 [Velog](https://velog.io/@rodaka123)에 기록하고 있습니다.
 
 <!-- velog-posts-start -->
-- [인증/인가와 Session 방식 인증(Spring Boot + Kotlin)](https://velog.io/@rodaka123/%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80%EC%99%80-Session-%EB%B0%A9%EC%8B%9D-%EC%9D%B8%EC%A6%9DSpring-Boot-Kotlin)  `2026.10.07`
+- [[인증/인가 시리즈 #1] 인증/인가와 Session 방식 인증(Spring Boot + Kotlin)](https://velog.io/@rodaka123/%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80%EC%99%80-Session-%EB%B0%A9%EC%8B%9D-%EC%9D%B8%EC%A6%9DSpring-Boot-Kotlin)  `2026.10.07`
 - [캐시는 언제부터 필요할까 - 부하테스트를 통한 크로스오버 지점 찾기 기록](https://velog.io/@rodaka123/%EC%BA%90%EC%8B%9C%EB%8A%94-%EC%96%B8%EC%A0%9C%EB%B6%80%ED%84%B0-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%98%A4%EB%B2%84-%EC%A7%80%EC%A0%90-%EC%B0%BE%EA%B8%B0-%EA%B8%B0%EB%A1%9D)  `2026.09.28`
 - [LATERAL JOIN은 언제 사용할까](https://velog.io/@rodaka123/LATERAL-JOIN%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C)  `2026.09.16`
 - [Write-Back에서 Outbox까지](https://velog.io/@rodaka123/Write-Back%EC%97%90%EC%84%9C-Outbox%EA%B9%8C%EC%A7%80)  `2026.09.15`
